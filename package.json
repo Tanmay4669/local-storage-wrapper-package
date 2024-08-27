@@ -1,0 +1,15 @@
+{
+  "name": "expirable-local-storage",
+  "version": "1.0.0",
+  "description": "A simple utility for managing local storage with optional expiration.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/Tanmay4669/local-storage-wrapper-package.git)"
+  },
+  "author": "Tanmay Vaidya",
+  "license": "ISC"
+}

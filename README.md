@@ -1,1 +1,1 @@
-# local-storage-wrapper-package
+# expirable-local-storage
